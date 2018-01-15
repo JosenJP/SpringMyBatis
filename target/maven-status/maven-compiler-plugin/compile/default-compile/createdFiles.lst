@@ -1,0 +1,6 @@
+Josen\SpringMyBatis\AppContextConfig.class
+IService\IStudentService.class
+model\StudentsDomainObject.class
+dao\IStudentsDomainObjectMapper.class
+Josen\SpringMyBatis\App.class
+ServiceImpl\StudentServiceImpl.class
